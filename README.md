@@ -18,4 +18,4 @@ Using the Calculator:
 <li>Press "=" or click to calculate the result.</li>
 </ul>
 
-<img src="images/photo.png">
+<img src="images/photo.png" height="500">
